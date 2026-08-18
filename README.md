@@ -1,16 +1,236 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Atharav1805/Atharav1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=ATHARAV%20SONAWANE&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=AUTONOMOUS%20SYSTEMS%20%26%20CONTROLS%20%40%20IIT%20BOMBAY%20RACING&descAlignY=55&descSize=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F2F4F8,50:E3E8EF,100:F2F4F8&height=200&section=header&text=ATHARAV%20SONAWANE&fontSize=42&fontColor=0B5FCC&animation=fadeIn&fontAlignY=35&desc=AUTONOMOUS%20SYSTEMS%20%26%20CONTROLS%20%40%20IIT%20BOMBAY%20RACING&descAlignY=55&descSize=14">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=ATHARAV%20SONAWANE&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=AUTONOMOUS%20SYSTEMS%20%26%20CONTROLS%20%40%20IIT%20BOMBAY%20RACING&descAlignY=55&descSize=14" width="100%">
+</picture>
 
-Here are some ideas to get you started:
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=680&lines=Chief+of+Autonomous+Systems+%26+Controls%2C+IIT+Bombay+Racing;Predictive+safety+filters+for+VLA+policies+%2F+Isaac+Sim;1st+Overall+%40+FS+Portugal+2026+%2C+first+for+India;Ex-Siemens+%7C+NVIDIA+Isaac+Sim+%7C+ROS2" alt="Typing SVG">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Atharav1805&style=for-the-badge&color=00E5FF&labelColor=0D1117&label=PROFILE+VIEWS">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+<a href="https://github.com/IIT-Bombay-Racing-Driverless"><img src="https://img.shields.io/badge/IIT_BOMBAY_RACING-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D1117&height=3">
+
+### `$ whoami`
+
+B.Tech, Metallurgical Engineering and Materials Science, IIT Bombay (2027), with a Robotics minor through Mechanical Engineering. 8.18 CPI, 25+ grades in the institute's top two bands.
+
+I run the autonomous stack at **IIT Bombay Racing** as Chief of Autonomous Systems & Controls, and lead marketing and sponsorship as CMO. The team fields India's first and only Level 4 autonomous Formula Student car, competing internationally across the UK and Europe. This summer I interned at Siemens Bangalore, in Foundational Technologies, Research & Pre-Development, building agentic tooling for autonomous-system failure diagnosis in NVIDIA Isaac Sim.
+
+A paper I co-authored on LiDAR-only cone detection and colour classification for autonomous racing is currently under review at arXiv.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3">
+
+### `$ cat achievements.log`
+
+<div align="center">
+
+![Team](https://img.shields.io/badge/TEAM_LED-120%2B-00E5FF?style=for-the-badge&labelColor=0D1117)
+![Sponsorship](https://img.shields.io/badge/SPONSORSHIP_SECURED-%2440k%2B-39FF14?style=for-the-badge&labelColor=0D1117)
+![Budget](https://img.shields.io/badge/BUDGET_MANAGED-%2490k%2B-FFB800?style=for-the-badge&labelColor=0D1117)
+![Speedup](https://img.shields.io/badge/INFERENCE_SPEEDUP-14.3x-00E5FF?style=for-the-badge&labelColor=0D1117)
+![IOQM](https://img.shields.io/badge/IOQM-TOP_300%2F15k-FFB800?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+|  | Award | Detail |
+|:---:|---|---|
+| 🥇 | **FS Portugal 2026** | 1st Overall, EV & Driverless categories. First international win for an Indian team |
+| 🏆 | **Ather Energy** | System Intelligence Award, ADAS |
+| 🏆 | **JLR** | Best Self-Driving R&D |
+| 🏁 | **FSAI UK 2025, Silverstone** | 4th of 25 teams, a 7-place jump on the year before |
+| ✉️ | **Siemens** | Letter of Recommendation, for the agentic failure-diagnosis engine |
+| 📄 | **arXiv (under review)** | LiDAR-only perception for cone detection & colour classification |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:0D1117&height=3">
+
+### `$ ls ~/projects/`
+
+#### 📁 `racing_stack/` - IIT Bombay Racing, Autonomous Systems
+
+The full autonomy pipeline for the team's Level 4 car: vision, SLAM, planning, and control, built and led from scratch.
+
+| Component | Result |
+|---|---|
+| In-house simulator (CARLA-Unreal, physics-based LiDAR) | First built by the team |
+| LiDAR-camera fusion | < 0.15 m RMSE, 99.7% classification accuracy |
+| YOLOv11 on TensorRT | 100ms → 7ms inference (14.3x) |
+| GraphSLAM (Ceres), KD-tree data association | 0.143 m RMSE, 57% faster association |
+| Real-time nonlinear MPC (C++, acados SQP) | 20% faster lap times |
+| ISO 26262-aligned safety watchdogs | Finite-state E-Stop & fault handling |
+| 1:5-scale HIL rig | STM32 + CAN |
+
+<br>
+
+#### 📁 `autonomy_safety/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**LiDAR-Only Perception Pipeline**
+Cone detection and colour classification for autonomous racing using LiDAR alone, no camera dependency. Co-authored, under review at arXiv.
+
+![LiDAR](https://img.shields.io/badge/LiDAR-8B5CF6?style=flat-square) ![Perception](https://img.shields.io/badge/Perception-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+[![View Repo](https://img.shields.io/badge/repo-view-00E5FF?style=flat-square)](https://github.com/Atharav1805/psf-mobile-manipulator)
+**Predictive Safety Filter, VLA-Driven Mobile Manipulator**
+A deterministic safety filter enforcing a propose/dispose boundary between a stochastic VLA policy and a Ridgeback + Franka Panda controller, in Isaac Sim.
+
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+![Private](https://img.shields.io/badge/repo-private_%2F_Siemens_IP-8B5CF6?style=flat-square)
+**Agentic Failure-Diagnosis Engine**
+Watches live Isaac Sim runs, diagnoses why a task failed, forms a causal hypothesis, and designs its own counterfactual experiments to test it, running 1000+ controlled scenarios per hypothesis. Cut LLM token usage per call by 83% while keeping the safety-critical reasoning path fully deterministic and auditable.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### 📁 `vision_ml/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Coming Soon](https://img.shields.io/badge/repo-coming_soon-8B5CF6?style=flat-square)
+**VIGIL**
+A real-time vision platform separating fast local perception from slower LLM reasoning behind a typed, build-time-validated block graph. Routes across 18 LLM providers with health-based failover; cut false-alarm risk from 0.73 to 0.37 using a ReAct adjudicator backed by RAG/FAISS memory.
+
+![DAG](https://img.shields.io/badge/DAG_Executor-FFB800?style=flat-square) ![RAG](https://img.shields.io/badge/RAG%2FFAISS-FFB800?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+![Coming Soon](https://img.shields.io/badge/repo-coming_soon-8B5CF6?style=flat-square)
+**Brain Tumor Segmentation & Classification**
+A two-stage pipeline combining U-Net segmentation with CNN-based classification, using segmentation-guided ROI learning to reduce bias and Grad-CAM to validate the model's attention on tumor regions.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![UNet](https://img.shields.io/badge/U--Net-FFB800?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### 📁 `controls_mechatronics/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Coming Soon](https://img.shields.io/badge/repo-coming_soon-8B5CF6?style=flat-square)
+**Guidance & Control of UAVs**
+A nonlinear 12-state 6-DOF flight simulator and successive-loop-closure autopilot for the North American X-15, with trim convergence validated to machine precision across a 25s simulation.
+
+![Simulink](https://img.shields.io/badge/Simulink-FF6600?style=flat-square) ![6DOF](https://img.shields.io/badge/6--DOF-39FF14?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+![Coming Soon](https://img.shields.io/badge/repo-coming_soon-8B5CF6?style=flat-square)
+**StarTrack**
+A dual-axis, self-leveling equatorial star tracker built on Arduino with gyro and magnetometer feedback for closed-loop sidereal alignment.
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### 📁 `instrumentation_data/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Coming Soon](https://img.shields.io/badge/repo-coming_soon-8B5CF6?style=flat-square)
+**Optical Strain Mapping, Biaxial Bulge Tests**
+A 50fps 2D-DIC pipeline (FFmpeg + Vic-2D) reconstructing full-field displacement and strain maps, detecting 66% and 31% higher peak strains at notches in EPDM and rubber. A PINN architecture is proposed to predict failure from the spatio-temporal strain data.
+
+![DIC](https://img.shields.io/badge/2D--DIC-39FF14?style=flat-square) ![PINN](https://img.shields.io/badge/PINN-39FF14?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+![Coming Soon](https://img.shields.io/badge/repo-coming_soon-8B5CF6?style=flat-square)
+**NBA Shooting Trends**
+An analysis of 40+ NBA seasons of 3-point attempt data, surfacing a strong correlation between attempt volume and playoff success.
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-39FF14?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=3">
+
+### `$ cat stack.yaml`
+
+<div align="center">
+
+`languages:`
+![C++](https://img.shields.io/badge/C++-00E5FF?style=for-the-badge&logo=cplusplus&logoColor=0D1117) ![Python](https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=0D1117) ![MATLAB](https://img.shields.io/badge/MATLAB-00E5FF?style=for-the-badge&logo=mathworks&logoColor=0D1117) ![C](https://img.shields.io/badge/C-00E5FF?style=for-the-badge&logo=c&logoColor=0D1117) ![LaTeX](https://img.shields.io/badge/LaTeX-00E5FF?style=for-the-badge&logo=latex&logoColor=0D1117)
+
+`robotics_and_sim:`
+![ROS2](https://img.shields.io/badge/ROS2-39FF14?style=for-the-badge&logo=ros&logoColor=0D1117) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-39FF14?style=for-the-badge&logo=nvidia&logoColor=0D1117) ![Gazebo](https://img.shields.io/badge/Gazebo-39FF14?style=for-the-badge&logo=gazebo&logoColor=0D1117) ![acados](https://img.shields.io/badge/acados%2FCasADi-39FF14?style=for-the-badge)
+
+`ai_and_vision:`
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB800?style=for-the-badge&logo=pytorch&logoColor=0D1117) ![TensorRT](https://img.shields.io/badge/TensorRT-FFB800?style=for-the-badge&logo=nvidia&logoColor=0D1117) ![OpenCV](https://img.shields.io/badge/OpenCV-FFB800?style=for-the-badge&logo=opencv&logoColor=0D1117) ![CUDA](https://img.shields.io/badge/CUDA-FFB800?style=for-the-badge&logo=nvidia&logoColor=0D1117) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFB800?style=for-the-badge&logo=huggingface&logoColor=0D1117)
+
+`tools:`
+![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=0D1117) ![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=0D1117) ![STM32](https://img.shields.io/badge/STM32-8B5CF6?style=for-the-badge&logo=stmicroelectronics&logoColor=0D1117) ![Arduino](https://img.shields.io/badge/Arduino-8B5CF6?style=for-the-badge&logo=arduino&logoColor=0D1117)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0D1117&height=3">
+
+### `$ ./fetch_stats.sh --live`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Atharav1805&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=39FF14&text_color=C9D1D9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharav1805&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharav1805&hide_border=true&background=0D1117&stroke=0D1117&ring=00E5FF&fire=FFB800&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Atharav1805&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" width="90%"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3">
+
+### `$ ./watch_snake_eat_my_commits.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Atharav1805/Atharav1805/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<sub>Bonus animation, needs a one-time GitHub Actions setup. See <code>.github/workflows/snake.yml</code> below.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%">
