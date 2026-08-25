@@ -23,7 +23,7 @@
 
 ### `$ whoami`
 
-B.Tech, Metallurgical Engineering and Materials Science, IIT Bombay (2027), with a Robotics minor through Mechanical Engineering. 8.18 CPI, 25+ grades in the institute's top two bands.
+B.Tech, Metallurgical Engineering and Materials Science, IIT Bombay (2027), with a Robotics minor through Mechanical Engineering. 25+ grades in the institute's top two bands.
 
 I run the autonomous stack at **IIT Bombay Racing** as Chief of Autonomous Systems & Controls, and lead marketing and sponsorship as CMO. The team fields India's first and only Level 4 autonomous Formula Student car, competing internationally across the UK and Europe. This summer I interned at Siemens Bangalore, in Foundational Technologies, Research & Pre-Development, building agentic tooling for autonomous-system failure diagnosis in NVIDIA Isaac Sim.
 
